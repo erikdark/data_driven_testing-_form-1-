@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+#formContainer {
+    margin-bottom: 20px;
+}
+
+#messageContainer {
+    margin-top: 20px;
+    font-weight: bold;
+}
